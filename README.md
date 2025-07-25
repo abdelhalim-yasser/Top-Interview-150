@@ -17,8 +17,8 @@ Each problem has its own folder named after the problem title and contains:
 
 ## ✅ Progress Tracker
 
-- ✅ Solved: **1**  
-- 🔄 In Progress: **149 to go!**  
+- ✅ Solved: **3**  
+- 🔄 In Progress: **147 to go!**  
 - 🔥 Languages used: Java, Python  
 - 💡 Focus: Clean code, optimal approach, time/space analysis
 
