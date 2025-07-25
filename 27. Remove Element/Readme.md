@@ -17,8 +17,8 @@ The order of elements can be changed. It doesn't matter what values are left bey
 
 ## ✅ Solutions
 
-- 🔹 [Java Solution](./Remove_element.java)
-- 🔹 [Python Solution](./Remove_element.py)
+- 🔹 [Java Solution](./Remove_Element.java)
+- 🔹 [Python Solution](./Remove_Element.py)
 
 ---
 
