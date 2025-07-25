@@ -15,8 +15,8 @@ Do not allocate extra space for another array — you must do this in-place with
 
 ## ✅ Solutions
 
-- 🔹 [Java Solution](./Remove_duplicates_sorted_array.java)
-- 🔹 [Python Solution](./Remove_duplicates_sorted_array.py)
+- 🔹 [Java Solution](./Remove_Duplicates_from_Sorted_Array.java)
+- 🔹 [Python Solution](./Remove_Duplicates_from_Sorted_Array.py)
 
 ---
 
