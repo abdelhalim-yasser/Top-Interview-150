@@ -7,7 +7,7 @@ If the array is entirely increasing or decreasing, return `0`.
 
 ## 🔗 Problem Link
 
-[GeeksForGeeks - Shortest Unordered Subarray](https://www.geeksforgeeks.org/problems/shortest-unordered-subarray)
+[GeeksForGeeks - Shortest Unordered Subarray](https://www.geeksforgeeks.org/problems/shortest-un-ordered-subarray3634/1)
 
 ---
 
