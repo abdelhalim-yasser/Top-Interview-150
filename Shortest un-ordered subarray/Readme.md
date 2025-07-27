@@ -7,14 +7,14 @@ If the array is entirely increasing or decreasing, return `0`.
 
 ## 🔗 Problem Link
 
-[GeeksForGeeks - Shortest Unordered Subarray](https://www.geeksforgeeks.org/problems/shortest-unordered-subarray/1)
+[GeeksForGeeks - Shortest Unordered Subarray](https://www.geeksforgeeks.org/problems/shortest-unordered-subarray)
 
 ---
 
 ## ✅ Solutions
 
-- 🔹 [Java Solution](./ShortestUnorderedSubarray.java)
-- 🔹 [Python Solution](./ShortestUnorderedSubarray.py) *(optional)*
+- 🔹 [Java Solution](./Shortest_un-ordered_subarray.java)
+- 🔹 [Python Solution](./Shortest_un-ordered_subarray.py)
 
 ---
 
