@@ -1,4 +1,4 @@
-# 🚀 LeetCode Top Interview 150 - Solutions
+# 🚀 LeetCode and GeeksforGeeks Top Interview 150 - Solutions
 
 This repository contains my personal solutions to the **[LeetCode Top Interview 150 Questions](https://leetcode.com/study-plan/top-interview-150/)**.  
 The goal is to practice and master problem-solving skills using **Java** and **Python**.
