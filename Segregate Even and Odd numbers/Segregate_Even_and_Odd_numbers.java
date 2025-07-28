@@ -14,6 +14,6 @@ class Solution {
                 temp[stop++] = arr[i];
         }
         
-        System.arraycopy(temp, 0, arr, 0, arr.length);
-    }
+        for (int i = 0; i < arr.length; i++)
+            arr[i] = temp[i];
 }
