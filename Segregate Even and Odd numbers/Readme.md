@@ -13,6 +13,7 @@ Given an array of integers, rearrange the array so that all **even numbers** app
 ## ✅ Solutions
 
 - 🔹 [Java Solution](./Segregate_Even_Odd.java)
+- 🔹 [Python Solution](./Segregate_Even_Odd.py)
 
 ---
 
@@ -25,8 +26,6 @@ We sort the array, then iterate through it twice:
 3. Overwrite the original array with the new ordering.
 
 This ensures all even numbers come first, followed by all odd numbers.
-
-> **Note**: Using sorting ensures the even/odd groups are in increasing order, though the problem may not require this strict ordering.
 
 ---
 
